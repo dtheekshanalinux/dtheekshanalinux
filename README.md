@@ -2,7 +2,7 @@
 #### Full stack web developer
 Nice to meet you! My name is Dinindu Theekshana. And I'm from sri lanka also I really like to learn new languages and frameworks. I'm currently learning React and work as a python Django developer.
 
-Skills: Django/ REACT / JS / HTML / CSS / PYTHON / ARDUINO
+Skills: Django / REACT / JS / HTML / CSS / PYTHON / ARDUINO
 
 - 🔭 I’m currently working on Blogsite 
 - 🌱 I’m currently learning React 
