@@ -1,4 +1,4 @@
-### Hi there 👋, Hey, I'm Dinindu 👋
+### Hi there 👋,
 #### Full stack web developer
 Nice to meet you! My name is Dinindu Theekshana. And I'm from sri lanka also I really like to learn new languages and frameworks. I'm currently learning React and work as a python Django developer.
 
